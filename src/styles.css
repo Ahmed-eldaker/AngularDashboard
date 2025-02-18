@@ -1,2 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  /* height: 100vh; */
+  /* width: 100%; */
+  background-image: url(assets/b175371146e6f11425631c6a4f9048cc.png);
+}
