@@ -2,3 +2,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+  background-image: url(assets/b175371146e6f11425631c6a4f9048cc.png);
+}
